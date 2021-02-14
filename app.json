@@ -24,12 +24,12 @@
     },
       "publicKey": {
           "description": "Public key of connected app.  Leave blank if using username / password.",
-          "value":"",
+          "value":"3MVG9Nk1FpUrSQHd5edLBI.w7sT_kIYKWarkFMmIeUk4lO_NL2BCwJOV5DfoyN4am.jm.RuEfReTCiBi47BrY",
           "required":false
       },
       "privateKey": {
           "description": "Private key of connected app.  Leave blank if using username / password.",
-          "value":"",
+          "value":"3969C9ECE396E07FA9D79B992A677D24E9E02D1BA194FE1261E832D19955FB6A",
           "required":false
       }
     }
